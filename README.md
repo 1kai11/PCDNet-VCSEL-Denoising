@@ -16,8 +16,8 @@ The module is embedded within a Polar Coordinate Residual Block (PCRB) and furth
 
 This geometry-aware design enables PCDNet to achieve effective denoising under mixed-noise conditions while maintaining a lightweight architecture, and it can be flexibly integrated into other denoising frameworks in a plug-and-play manner.
 
-This repository provides the complete implementation of the proposed network, including model definition, loss functions, and training scripts, to facilitate reproducibility and further research.
 ## Repository Structure
+This repository provides the complete implementation of the proposed network, including model definition, loss functions, and training scripts, to facilitate reproducibility and further research.
 PCDNet-VCSEL-Denoising/
   - model.py # PCDNet network architecture
   - loss.py # Hybrid loss functions
