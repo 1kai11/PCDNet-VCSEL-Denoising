@@ -18,12 +18,13 @@ This geometry-aware design enables PCDNet to achieve effective denoising under m
 
 ## Repository Structure
 This repository provides the complete implementation of the proposed network, including model definition, loss functions, and training scripts, to facilitate reproducibility and further research.
+
 PCDNet-VCSEL-Denoising/
-  - model.py # PCDNet network architecture
-  - loss.py # Hybrid loss functions
-  - train.py # Training script
-  - plug_play/ # Plug-and-play modules for integration into other denoisers
-  - requirements.txt # Python dependencies
+  - model.py 
+  - loss.py 
+  - train.py 
+  - plug_play/ 
+  - requirements.txt 
   - README.md
 
 ## Environment
