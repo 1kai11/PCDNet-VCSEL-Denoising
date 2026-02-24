@@ -1,5 +1,5 @@
 # PCDNet-VCSEL-Denoising
-Official PyTorch implementation of PCDNet for VCSEL defect image denoising (Optical and Quantum Electronics submission)
+Official PyTorch implementation of PCDNet for VCSEL defect image denoising (Machine Vision and Applications submission)
 
 ## Overview
 Vertical-cavity surface-emitting laser (VCSEL) defect images acquired via infrared electroluminescence inspection are often severely degraded by mixed industrial noise, which obscures defect boundaries and annular structures.  
